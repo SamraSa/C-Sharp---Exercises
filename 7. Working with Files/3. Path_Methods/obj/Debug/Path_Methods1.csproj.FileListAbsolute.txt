@@ -1,0 +1,7 @@
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\Path_Methods1\bin\Debug\Path_Methods1.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\Path_Methods1\bin\Debug\Path_Methods1.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\Path_Methods1\bin\Debug\Path_Methods1.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\Path_Methods1\obj\Debug\Path_Methods1.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\Path_Methods1\obj\Debug\Path_Methods1.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\Path_Methods1\obj\Debug\Path_Methods1.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\Path_Methods1\obj\Debug\Path_Methods1.pdb

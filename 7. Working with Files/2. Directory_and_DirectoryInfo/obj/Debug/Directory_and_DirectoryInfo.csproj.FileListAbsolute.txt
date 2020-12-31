@@ -1,0 +1,16 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Files\Directory_and_DirectoryInfo\obj\Debug\Directory_and_DirectoryInfo.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Files\Directory_and_DirectoryInfo\obj\Debug\Directory_and_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\7. Working with Files\2. Directory_and_DirectoryInfo\obj\Debug\Directory_and_DirectoryInfo.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\7. Working with Files\2. Directory_and_DirectoryInfo\obj\Debug\Directory_and_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\7. Working with Files\2. Directory_and_DirectoryInfo\bin\Debug\Directory_and_DirectoryInfo.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\7. Working with Files\2. Directory_and_DirectoryInfo\bin\Debug\Directory_and_DirectoryInfo.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\7. Working with Files\2. Directory_and_DirectoryInfo\bin\Debug\Directory_and_DirectoryInfo.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\7. Working with Files\2. Directory_and_DirectoryInfo\obj\Debug\Directory_and_DirectoryInfo.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\7. Working with Files\2. Directory_and_DirectoryInfo\obj\Debug\Directory_and_DirectoryInfo.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\2. Directory_and_DirectoryInfo\bin\Debug\Directory_and_DirectoryInfo.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\2. Directory_and_DirectoryInfo\bin\Debug\Directory_and_DirectoryInfo.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\2. Directory_and_DirectoryInfo\bin\Debug\Directory_and_DirectoryInfo.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\2. Directory_and_DirectoryInfo\obj\Debug\Directory_and_DirectoryInfo.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\2. Directory_and_DirectoryInfo\obj\Debug\Directory_and_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\2. Directory_and_DirectoryInfo\obj\Debug\Directory_and_DirectoryInfo.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\2. Directory_and_DirectoryInfo\obj\Debug\Directory_and_DirectoryInfo.pdb

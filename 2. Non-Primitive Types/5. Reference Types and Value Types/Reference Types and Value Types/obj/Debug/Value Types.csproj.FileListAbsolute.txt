@@ -1,0 +1,7 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Reference Types and Value Types\Reference Types\Value Types\Value Types\bin\Debug\Value Types.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Reference Types and Value Types\Reference Types\Value Types\Value Types\bin\Debug\Value Types.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Reference Types and Value Types\Reference Types\Value Types\Value Types\bin\Debug\Value Types.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Reference Types and Value Types\Reference Types\Value Types\Value Types\obj\Debug\Value Types.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Reference Types and Value Types\Reference Types\Value Types\Value Types\obj\Debug\Value Types.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Reference Types and Value Types\Reference Types\Value Types\Value Types\obj\Debug\Value Types.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Reference Types and Value Types\Reference Types\Value Types\Value Types\obj\Debug\Value Types.pdb

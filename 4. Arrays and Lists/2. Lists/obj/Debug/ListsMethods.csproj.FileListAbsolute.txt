@@ -1,0 +1,14 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Lists\bin\Debug\Lists.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Lists\bin\Debug\Lists.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Lists\bin\Debug\Lists.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Lists\obj\Debug\ListsMethods.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Lists\obj\Debug\ListsMethods.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Lists\obj\Debug\Lists.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Lists\obj\Debug\Lists.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\4. Arrays and Lists\2. Lists\bin\Debug\Lists.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\4. Arrays and Lists\2. Lists\bin\Debug\Lists.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\4. Arrays and Lists\2. Lists\bin\Debug\Lists.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\4. Arrays and Lists\2. Lists\obj\Debug\ListsMethods.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\4. Arrays and Lists\2. Lists\obj\Debug\ListsMethods.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\4. Arrays and Lists\2. Lists\obj\Debug\Lists.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\4. Arrays and Lists\2. Lists\obj\Debug\Lists.pdb

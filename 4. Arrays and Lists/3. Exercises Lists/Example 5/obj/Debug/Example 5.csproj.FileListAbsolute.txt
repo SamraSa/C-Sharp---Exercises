@@ -1,0 +1,7 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Arrays and Lists\Exercises Lists\Example 5\bin\Debug\Example 5.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Arrays and Lists\Exercises Lists\Example 5\bin\Debug\Example 5.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Arrays and Lists\Exercises Lists\Example 5\bin\Debug\Example 5.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Arrays and Lists\Exercises Lists\Example 5\obj\Debug\Example 5.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Arrays and Lists\Exercises Lists\Example 5\obj\Debug\Example 5.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Arrays and Lists\Exercises Lists\Example 5\obj\Debug\Example 5.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Arrays and Lists\Exercises Lists\Example 5\obj\Debug\Example 5.pdb

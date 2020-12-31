@@ -1,0 +1,14 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Type Conversion\bin\Debug\Type Conversion.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Type Conversion\bin\Debug\Type Conversion.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Type Conversion\bin\Debug\Type Conversion.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Type Conversion\obj\Debug\Type Conversion.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Type Conversion\obj\Debug\Type Conversion.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Type Conversion\obj\Debug\Type Conversion.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Type Conversion\obj\Debug\Type Conversion.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\1. Primitive Types and Expressions\3. Type Conversion\bin\Debug\Type Conversion.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\1. Primitive Types and Expressions\3. Type Conversion\bin\Debug\Type Conversion.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\1. Primitive Types and Expressions\3. Type Conversion\bin\Debug\Type Conversion.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\1. Primitive Types and Expressions\3. Type Conversion\obj\Debug\Type Conversion.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\1. Primitive Types and Expressions\3. Type Conversion\obj\Debug\Type Conversion.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\1. Primitive Types and Expressions\3. Type Conversion\obj\Debug\Type Conversion.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\1. Primitive Types and Expressions\3. Type Conversion\obj\Debug\Type Conversion.pdb

@@ -1,0 +1,7 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\If-Else and Switch-Case\bin\Debug\If-Else and Switch-Case.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\If-Else and Switch-Case\bin\Debug\If-Else and Switch-Case.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\If-Else and Switch-Case\bin\Debug\If-Else and Switch-Case.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\If-Else and Switch-Case\obj\Debug\If-Else and Switch-Case.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\If-Else and Switch-Case\obj\Debug\If-Else and Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\If-Else and Switch-Case\obj\Debug\If-Else and Switch-Case.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\If-Else and Switch-Case\obj\Debug\If-Else and Switch-Case.pdb

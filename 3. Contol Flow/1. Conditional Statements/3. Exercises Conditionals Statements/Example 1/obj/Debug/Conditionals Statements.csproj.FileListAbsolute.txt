@@ -1,0 +1,14 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\Conditionals Statements\bin\Debug\Conditionals Statements.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\Conditionals Statements\bin\Debug\Conditionals Statements.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\Conditionals Statements\bin\Debug\Conditionals Statements.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\Conditionals Statements\obj\Debug\Conditionals Statements.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\Conditionals Statements\obj\Debug\Conditionals Statements.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\Conditionals Statements\obj\Debug\Conditionals Statements.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\Conditionals Statements\obj\Debug\Conditionals Statements.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\1. Conditional Statements\3. Exercises Conditionals Statements\Example 1\bin\Debug\Conditionals Statements.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\1. Conditional Statements\3. Exercises Conditionals Statements\Example 1\bin\Debug\Conditionals Statements.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\1. Conditional Statements\3. Exercises Conditionals Statements\Example 1\bin\Debug\Conditionals Statements.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\1. Conditional Statements\3. Exercises Conditionals Statements\Example 1\obj\Debug\Conditionals Statements.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\1. Conditional Statements\3. Exercises Conditionals Statements\Example 1\obj\Debug\Conditionals Statements.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\1. Conditional Statements\3. Exercises Conditionals Statements\Example 1\obj\Debug\Conditionals Statements.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\1. Conditional Statements\3. Exercises Conditionals Statements\Example 1\obj\Debug\Conditionals Statements.pdb

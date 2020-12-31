@@ -1,0 +1,14 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Files\File and FileInfo\bin\Debug\File and FileInfo.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Files\File and FileInfo\bin\Debug\File and FileInfo.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Files\File and FileInfo\bin\Debug\File and FileInfo.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Files\File and FileInfo\obj\Debug\File and FileInfo.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Files\File and FileInfo\obj\Debug\File and FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Files\File and FileInfo\obj\Debug\File and FileInfo.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Files\File and FileInfo\obj\Debug\File and FileInfo.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\1. File and FileInfo\bin\Debug\File and FileInfo.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\1. File and FileInfo\bin\Debug\File and FileInfo.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\1. File and FileInfo\bin\Debug\File and FileInfo.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\1. File and FileInfo\obj\Debug\File and FileInfo.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\1. File and FileInfo\obj\Debug\File and FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\1. File and FileInfo\obj\Debug\File and FileInfo.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\7. Working with Files\1. File and FileInfo\obj\Debug\File and FileInfo.pdb

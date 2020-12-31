@@ -1,0 +1,14 @@
+C:\Users\SiradS\source\repos\Variables and Constants\obj\Debug\Variables and Constants.csprojAssemblyReference.cache
+C:\Users\SiradS\source\repos\Variables and Constants\obj\Debug\Variables and Constants.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\source\repos\Variables and Constants\bin\Debug\Variables and Constants.exe.config
+C:\Users\SiradS\source\repos\Variables and Constants\bin\Debug\Variables and Constants.exe
+C:\Users\SiradS\source\repos\Variables and Constants\bin\Debug\Variables and Constants.pdb
+C:\Users\SiradS\source\repos\Variables and Constants\obj\Debug\Variables and Constants.exe
+C:\Users\SiradS\source\repos\Variables and Constants\obj\Debug\Variables and Constants.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\1. Primitive Types and Expressions\2. Variables and Constants\bin\Debug\Variables and Constants.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\1. Primitive Types and Expressions\2. Variables and Constants\bin\Debug\Variables and Constants.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\1. Primitive Types and Expressions\2. Variables and Constants\bin\Debug\Variables and Constants.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\1. Primitive Types and Expressions\2. Variables and Constants\obj\Debug\Variables and Constants.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\1. Primitive Types and Expressions\2. Variables and Constants\obj\Debug\Variables and Constants.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\1. Primitive Types and Expressions\2. Variables and Constants\obj\Debug\Variables and Constants.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\1. Primitive Types and Expressions\2. Variables and Constants\obj\Debug\Variables and Constants.pdb

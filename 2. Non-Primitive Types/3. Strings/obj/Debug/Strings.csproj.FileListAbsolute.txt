@@ -1,0 +1,14 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Strings\bin\Debug\Strings.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Strings\bin\Debug\Strings.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Strings\bin\Debug\Strings.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Strings\obj\Debug\Strings.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Strings\obj\Debug\Strings.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\3. Strings\bin\Debug\Strings.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\3. Strings\bin\Debug\Strings.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\3. Strings\bin\Debug\Strings.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\3. Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\3. Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\3. Strings\obj\Debug\Strings.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\3. Strings\obj\Debug\Strings.pdb

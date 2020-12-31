@@ -1,0 +1,7 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Exercises Text\Example 3\bin\Debug\Example 3.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Exercises Text\Example 3\bin\Debug\Example 3.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Exercises Text\Example 3\bin\Debug\Example 3.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Exercises Text\Example 3\obj\Debug\Example 3.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Exercises Text\Example 3\obj\Debug\Example 3.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Exercises Text\Example 3\obj\Debug\Example 3.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Exercises Text\Example 3\obj\Debug\Example 3.pdb

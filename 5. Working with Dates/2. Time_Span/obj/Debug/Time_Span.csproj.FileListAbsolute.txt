@@ -1,0 +1,14 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Dates\Time_Span\bin\Debug\Time_Span.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Dates\Time_Span\bin\Debug\Time_Span.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Dates\Time_Span\bin\Debug\Time_Span.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Dates\Time_Span\obj\Debug\Time_Span.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Dates\Time_Span\obj\Debug\Time_Span.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Dates\Time_Span\obj\Debug\Time_Span.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Dates\Time_Span\obj\Debug\Time_Span.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\5. Working with Dates\2. Time_Span\bin\Debug\Time_Span.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\5. Working with Dates\2. Time_Span\bin\Debug\Time_Span.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\5. Working with Dates\2. Time_Span\bin\Debug\Time_Span.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\5. Working with Dates\2. Time_Span\obj\Debug\Time_Span.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\5. Working with Dates\2. Time_Span\obj\Debug\Time_Span.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\5. Working with Dates\2. Time_Span\obj\Debug\Time_Span.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\5. Working with Dates\2. Time_Span\obj\Debug\Time_Span.pdb

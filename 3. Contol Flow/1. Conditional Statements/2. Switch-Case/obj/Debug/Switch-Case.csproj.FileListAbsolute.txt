@@ -1,0 +1,14 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\Switch-Case\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\Switch-Case\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\Switch-Case\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\Switch-Case\ConsoleApp1\obj\Debug\Switch-Case.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\Switch-Case\ConsoleApp1\obj\Debug\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\Switch-Case\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\If-Else and Switch-Case\Switch-Case\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\1. Conditional Statements\2. Switch-Case\bin\Debug\ConsoleApp1.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\1. Conditional Statements\2. Switch-Case\bin\Debug\ConsoleApp1.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\1. Conditional Statements\2. Switch-Case\bin\Debug\ConsoleApp1.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\1. Conditional Statements\2. Switch-Case\obj\Debug\Switch-Case.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\1. Conditional Statements\2. Switch-Case\obj\Debug\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\1. Conditional Statements\2. Switch-Case\obj\Debug\ConsoleApp1.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\1. Conditional Statements\2. Switch-Case\obj\Debug\ConsoleApp1.pdb

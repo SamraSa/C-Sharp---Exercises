@@ -1,0 +1,7 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Dates\DateTime\obj\Debug\DateTime.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Dates\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Dates\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Dates\DateTime\bin\Debug\DateTime.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Dates\DateTime\bin\Debug\DateTime.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Dates\DateTime\obj\Debug\DateTime.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Dates\DateTime\obj\Debug\DateTime.pdb

@@ -1,0 +1,14 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Iteration Statements\bin\Debug\Iteration Statements.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Iteration Statements\bin\Debug\Iteration Statements.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Iteration Statements\bin\Debug\Iteration Statements.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Iteration Statements\obj\Debug\For Loops.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Iteration Statements\obj\Debug\For Loops.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Iteration Statements\obj\Debug\Iteration Statements.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Iteration Statements\obj\Debug\Iteration Statements.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\2. Iteration Statements\1. For Loops\bin\Debug\Iteration Statements.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\2. Iteration Statements\1. For Loops\bin\Debug\Iteration Statements.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\2. Iteration Statements\1. For Loops\bin\Debug\Iteration Statements.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\2. Iteration Statements\1. For Loops\obj\Debug\For Loops.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\2. Iteration Statements\1. For Loops\obj\Debug\For Loops.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\2. Iteration Statements\1. For Loops\obj\Debug\Iteration Statements.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\3. Contol Flow\2. Iteration Statements\1. For Loops\obj\Debug\Iteration Statements.pdb

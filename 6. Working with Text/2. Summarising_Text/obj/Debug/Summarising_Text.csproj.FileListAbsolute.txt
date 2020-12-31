@@ -1,0 +1,14 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Summarising_Text\obj\Debug\Summarising_Text.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Summarising_Text\obj\Debug\Summarising_Text.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Summarising_Text\bin\Debug\Summarising_Text.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Summarising_Text\bin\Debug\Summarising_Text.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Summarising_Text\bin\Debug\Summarising_Text.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Summarising_Text\obj\Debug\Summarising_Text.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Summarising_Text\obj\Debug\Summarising_Text.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\6. Working with Text\2. Summarising_Text\bin\Debug\Summarising_Text.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\6. Working with Text\2. Summarising_Text\bin\Debug\Summarising_Text.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\6. Working with Text\2. Summarising_Text\bin\Debug\Summarising_Text.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\6. Working with Text\2. Summarising_Text\obj\Debug\Summarising_Text.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\6. Working with Text\2. Summarising_Text\obj\Debug\Summarising_Text.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\6. Working with Text\2. Summarising_Text\obj\Debug\Summarising_Text.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\6. Working with Text\2. Summarising_Text\obj\Debug\Summarising_Text.pdb

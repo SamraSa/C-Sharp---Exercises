@@ -1,0 +1,14 @@
+C:\Users\SiradS\source\repos\Arrays1\bin\Debug\Arrays1.exe.config
+C:\Users\SiradS\source\repos\Arrays1\bin\Debug\Arrays1.exe
+C:\Users\SiradS\source\repos\Arrays1\bin\Debug\Arrays1.pdb
+C:\Users\SiradS\source\repos\Arrays1\obj\Debug\Arrays1.csprojAssemblyReference.cache
+C:\Users\SiradS\source\repos\Arrays1\obj\Debug\Arrays1.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\source\repos\Arrays1\obj\Debug\Arrays1.exe
+C:\Users\SiradS\source\repos\Arrays1\obj\Debug\Arrays1.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\4. Arrays and Lists\1. ArraysMethods\bin\Debug\Arrays1.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\4. Arrays and Lists\1. ArraysMethods\bin\Debug\Arrays1.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\4. Arrays and Lists\1. ArraysMethods\bin\Debug\Arrays1.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\4. Arrays and Lists\1. ArraysMethods\obj\Debug\Arrays1.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\4. Arrays and Lists\1. ArraysMethods\obj\Debug\Arrays1.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\4. Arrays and Lists\1. ArraysMethods\obj\Debug\Arrays1.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\4. Arrays and Lists\1. ArraysMethods\obj\Debug\Arrays1.pdb

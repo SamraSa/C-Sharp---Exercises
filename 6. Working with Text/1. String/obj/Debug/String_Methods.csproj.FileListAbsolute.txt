@@ -1,0 +1,14 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\String\bin\Debug\String.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\String\bin\Debug\String.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\String\bin\Debug\String.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\String\obj\Debug\String_Methods.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\String\obj\Debug\String_Methods.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\String\obj\Debug\String.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\String\obj\Debug\String.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\6. Working with Text\1. String\bin\Debug\String.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\6. Working with Text\1. String\bin\Debug\String.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\6. Working with Text\1. String\bin\Debug\String.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\6. Working with Text\1. String\obj\Debug\String_Methods.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\6. Working with Text\1. String\obj\Debug\String_Methods.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\6. Working with Text\1. String\obj\Debug\String.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\6. Working with Text\1. String\obj\Debug\String.pdb

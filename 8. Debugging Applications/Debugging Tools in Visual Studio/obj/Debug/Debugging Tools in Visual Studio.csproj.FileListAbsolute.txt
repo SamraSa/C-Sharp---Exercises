@@ -1,0 +1,9 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Debugging Applications\Debugging Tools in Visual Studio\obj\Debug\Debugging Tools in Visual Studio.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Debugging Applications\Debugging Tools in Visual Studio\obj\Debug\Debugging Tools in Visual Studio.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\8. Debugging Applications\Debugging Tools in Visual Studio\bin\Debug\Debugging Tools in Visual Studio.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\8. Debugging Applications\Debugging Tools in Visual Studio\bin\Debug\Debugging Tools in Visual Studio.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\8. Debugging Applications\Debugging Tools in Visual Studio\bin\Debug\Debugging Tools in Visual Studio.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\8. Debugging Applications\Debugging Tools in Visual Studio\obj\Debug\Debugging Tools in Visual Studio.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\8. Debugging Applications\Debugging Tools in Visual Studio\obj\Debug\Debugging Tools in Visual Studio.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\8. Debugging Applications\Debugging Tools in Visual Studio\obj\Debug\Debugging Tools in Visual Studio.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\8. Debugging Applications\Debugging Tools in Visual Studio\obj\Debug\Debugging Tools in Visual Studio.pdb

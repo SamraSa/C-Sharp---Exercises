@@ -1,0 +1,7 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Procedural Programming\bin\Debug\Procedural Programming.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Procedural Programming\bin\Debug\Procedural Programming.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Procedural Programming\bin\Debug\Procedural Programming.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Procedural Programming\obj\Debug\Procedural Programming.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Procedural Programming\obj\Debug\Procedural Programming.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Procedural Programming\obj\Debug\Procedural Programming.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Working with Text\Procedural Programming\obj\Debug\Procedural Programming.pdb

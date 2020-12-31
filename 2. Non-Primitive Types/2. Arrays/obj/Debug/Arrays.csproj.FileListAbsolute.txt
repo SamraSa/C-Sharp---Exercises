@@ -1,0 +1,14 @@
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Arrays\bin\Debug\Arrays.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Arrays\bin\Debug\Arrays.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Arrays\obj\Debug\Arrays.exe
+C:\Users\SiradS\Desktop\Udemy\C#\Projekt\Arrays\obj\Debug\Arrays.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\2. Arrays\bin\Debug\Arrays.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\2. Arrays\bin\Debug\Arrays.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\2. Arrays\bin\Debug\Arrays.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\2. Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\2. Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\2. Arrays\obj\Debug\Arrays.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\2. Arrays\obj\Debug\Arrays.pdb

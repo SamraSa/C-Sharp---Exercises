@@ -1,0 +1,7 @@
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\5. Reference Types and Value Types\Reference Types\bin\Debug\Reference Types.exe.config
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\5. Reference Types and Value Types\Reference Types\bin\Debug\Reference Types.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\5. Reference Types and Value Types\Reference Types\bin\Debug\Reference Types.pdb
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\5. Reference Types and Value Types\Reference Types\obj\Debug\Reference Types.csprojAssemblyReference.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\5. Reference Types and Value Types\Reference Types\obj\Debug\Reference Types.csproj.CoreCompileInputs.cache
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\5. Reference Types and Value Types\Reference Types\obj\Debug\Reference Types.exe
+C:\Users\SiradS\Desktop\Udemy\C#\C# Excercises\2. Non-Primitive Types\5. Reference Types and Value Types\Reference Types\obj\Debug\Reference Types.pdb
